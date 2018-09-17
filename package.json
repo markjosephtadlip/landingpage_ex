@@ -8,5 +8,8 @@
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://markjosephtadlip.github.io/landingpage_ex"
+  "homepage": "https://markjosephtadlip.github.io/landingpage_ex",
+  "dependencies": {
+    "gh-pages": "1.2.0"
+  }
 }
